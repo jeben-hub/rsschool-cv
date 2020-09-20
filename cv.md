@@ -17,7 +17,7 @@ email: **abondaronok@gmail.com**
     * HTML, CSS, Basics of JS
 * My english level - A2(Pre-Intermediate).
 * My code example:
-```Ruby
+```Ruby  
 require 'sha3'
 
 files_names = Dir['*.txt']
@@ -25,7 +25,6 @@ files_names = Dir['*.txt']
 files_names.each do |file_name|
   puts SHA3::Digest.file(file_name).to_s + ' ' + file_name
 end
-
-````
+```
 * Examles of my progects you can find on my gethub account: 
 https://github.com/jeben-hub
